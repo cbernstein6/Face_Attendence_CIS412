@@ -1,0 +1,3 @@
+name,email,face_path,check_in_time
+User One,user1@example.com,data/faces/User_One_user1_example.com.png,2026-04-23 14:27:33
+John Doe,john@example.com,data/faces/John_Doe_john_example.com.png,
