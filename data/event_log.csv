@@ -1,0 +1,6 @@
+event_name,user_email,timestamp
+event_test,user1@example.com,2026-04-23 16:58:53
+event_test,user1@example.com,2026-04-23 16:59:58
+event_test,User One,user1@example.com,2026-04-23 17:02:18
+event_test,User One,user1@example.com,2026-04-23 17:03:54
+event_test,jack,j@gmail.com,2026-04-23 17:22:31
