@@ -1,0 +1,2 @@
+System was thoroughly testing with user Jack.
+One issue caused by AI generated code was that any change I asked it to make would initially be done by adding more code, rather than refining the current code. This made the project initially hard ot navigate. This issue was resolved by being more explicit in what code I wanted modified and ensuring the new code concisely fixed whatever issue was happening.
